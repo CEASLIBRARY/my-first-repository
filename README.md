@@ -1,2 +1,4 @@
 # my-first-repository
-This is my first repo.
+
+ <br>
+This is the first commit in Intro. to GitHub.
